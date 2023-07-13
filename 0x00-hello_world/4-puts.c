@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Main function
+ * Main - Main function
  * Description: File to print simple stuff
- *
  * Retun: 0
- *
  */
 int main(void)
 {
