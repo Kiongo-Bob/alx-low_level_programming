@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
  * main - This is the main function
- * Description: prints "with proper grammar, but the outcome is a piece of 
- * art," followed by a new line
  *
  * Return: always (0) success
  */
